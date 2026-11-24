@@ -1,4 +1,4 @@
-
+i
 # Socket-Based Group Chat Application (Java)
 
 This project is a simple Java **socket-based group chat app** that allows multiple users to chat in real time. It includes a **server program** and a **client GUI** built using **Java Swing**.
@@ -35,6 +35,3 @@ Each client enters a username when joining.
 Messages sent by any client are broadcast to all connected clients.
 
 The client uses one thread for sending and another thread for receiving messages, keeping the GUI responsive.
-
-##Technology used
--java Tcp-Socket
