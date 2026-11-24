@@ -35,6 +35,3 @@ Each client enters a username when joining.
 Messages sent by any client are broadcast to all connected clients.
 
 The client uses one thread for sending and another thread for receiving messages, keeping the GUI responsive.
-
-##Technology used
--java Tcp-Socket
